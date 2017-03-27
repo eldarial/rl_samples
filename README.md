@@ -1,3 +1,3 @@
 # rl_samples
 
-Simple reinforment learning samples
+Simple reinforcement learning samples
